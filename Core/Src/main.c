@@ -105,8 +105,9 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-
+//你好s
     /* USER CODE BEGIN 3 */
+    //你好s
   }
   /* USER CODE END 3 */
 }
